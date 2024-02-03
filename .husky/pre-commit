@@ -1,0 +1,3 @@
+pnpm test
+
+pnpm dlx lint-staged
